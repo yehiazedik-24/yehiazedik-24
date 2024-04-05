@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭-I’m interested in Web Development.<br>- 📚 I’m currently learning Full stack developing.<br>- ⚡ In my free time I like reading and playing Games</p>
+<p align="left">I'm from ِ Alex/Egy<br><br>- 🔭-I’m interested in Web Development.<br>- 📚 I’m currently learning Full stack developing.<br>- ⚡ In my free time I like reading and playing Games</p>
 
 ###
 
